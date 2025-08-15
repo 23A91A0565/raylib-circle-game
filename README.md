@@ -15,3 +15,7 @@ Touch the green circle to collect it.
 Keep collecting circles before the time runs out!
 
 Try to beat your high score.
+
+🛠 Build & Run
+
+Make sure you have Raylib installed.
